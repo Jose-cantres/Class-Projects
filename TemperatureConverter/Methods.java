@@ -1,6 +1,4 @@
 //Name: Jose Cantres
-//Class: CMP326
-//Date: 3/22/18
 public class Methods {
 	public static void celciusToFahrenheit() {
 		double ctofInput,fahrenheit;
