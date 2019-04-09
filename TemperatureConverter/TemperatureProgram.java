@@ -1,6 +1,4 @@
 //Name: Jose Cantres
-//Class: CMP326
-//Date: 3/22/18
 	import java.awt.BorderLayout;
 	import java.awt.Color;
 	import java.awt.Dimension;
