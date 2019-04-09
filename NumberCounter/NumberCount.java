@@ -1,6 +1,4 @@
 //Name: Jose Cantres
-//Class: CMP326
-//Date: 3/19/18
 import java.util.Scanner;
 
 public class NumberCount implements NumberCountInterface {
